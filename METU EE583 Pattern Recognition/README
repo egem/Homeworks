@@ -1,0 +1,7 @@
+If you want to test the algorithms by using training data set (usedDataSet), please run the script "configure.sh"
+
+$ ./configure.sh
+
+If you want to test the algorithms by using your data set, create testDataSet folder and cp the images to this directory by obeying the notation which is explained in the final report.
+
+$ cp -R $(dataset_directory) testDataSet

@@ -1,0 +1,197 @@
+EE Tech All Product Data
+==========================================================
+Name:	Xperience One
+Type:	Smartphone
+CPU:	2.8 GHz
+RAM:	3 GB
+Screen:	4.5 ”
+Mem:	32 GB
+hasBT:	True
+has4g:	False
+battLife:	24 h
+hasFrCam:	False
+Price:	650 TL
+===
+Name:	myPhone 8
+Type:	Smartphone
+CPU:	3.2 GHz
+RAM:	4 GB
+Screen:	4.7 ”
+Mem:	16 GB
+hasBT:	True
+has4g:	False
+battLife:	18 h
+hasFrCam:	True
+Price:	800 TL
+===
+Name:	A3
+Type:	Smartphone
+CPU:	3.2 GHz
+RAM:	4 GB
+Screen:	5.2 ”
+Mem:	32 GB
+hasBT:	True
+has4g:	True
+battLife:	18 h
+hasFrCam:	True
+Price:	700 TL
+===
+Name:	G-5000
+Type:	Smartphone
+CPU:	3.2 GHz
+RAM:	2 GB
+Screen:	4.2 ”
+Mem:	64 GB
+hasBT:	True
+has4g:	False
+battLife:	22 h
+hasFrCam:	True
+Price:	850 TL
+===
+Name:	Atlas T2000
+Type:	LaptopComputer
+CPU:	3.4 GHz
+RAM:	8 GB
+Screen:	15.4 ”
+Mem:	512 GB
+hasBT:	True
+hasHdmi:	True
+battLife:	3 h
+opticDev:	DVD
+Price:	650 TL
+===
+Name:	Gazebo-X
+Type:	LaptopComputer
+CPU:	2.8 GHz
+RAM:	2 GB
+Screen:	10.2 ”
+Mem:	128 GB
+hasBT:	False
+hasHdmi:	True
+battLife:	8 h
+opticDev:	Bluray
+Price:	500 TL
+===
+Name:	Mac-N-Cheese
+Type:	LaptopComputer
+CPU:	3.8 GHz
+RAM:	8 GB
+Screen:	13.3 ”
+Mem:	512 GB
+hasBT:	True
+hasHdmi:	True
+battLife:	2.5 h
+opticDev:	Bluray
+Price:	1250 TL
+===
+Name:	Ghost LS
+Type:	LaptopComputer
+CPU:	3.4 GHz
+RAM:	6 GB
+Screen:	15.6 ”
+Mem:	1024 GB
+hasBT:	True
+hasHdmi:	True
+battLife:	3 h
+opticDev:	DVD
+Price:	1400 TL
+===
+Name:	Trebuchet TB-6
+Type:	LaptopComputer
+CPU:	3.8 GHz
+RAM:	16 GB
+Screen:	15.6 ”
+Mem:	2048 GB
+hasBT:	True
+hasHdmi:	True
+battLife:	5 h
+opticDev:	Bluray
+Price:	3000 TL
+===
+Name:	PurePixel
+Type:	TV
+Screen:	32 ”
+hasWifi:	False
+hasHdmi:	True
+hasUsb:	True
+Price:	1200 TL
+===
+Name:	SmartHome X4
+Type:	TV
+Screen:	42 ”
+hasWifi:	True
+hasHdmi:	True
+hasUsb:	True
+Price:	2200 TL
+===
+Name:	LowDefinition
+Type:	TV
+Screen:	24 ”
+hasWifi:	False
+hasHdmi:	False
+hasUsb:	False
+Price:	1800 TL
+===
+Name:	CrystalClear
+Type:	TV
+Screen:	55 ”
+hasWifi:	True
+hasHdmi:	True
+hasUsb:	True
+Price:	2500 TL
+===
+Name:	FunStation 3.2
+Type:	GameConsole
+CPU:	2.8 GHz
+RAM:	8 GB
+hasBT:	True
+hasWifi:	False
+hasUsb:	True
+Mem:	256	GB
+opticDev:	Bluray
+Price:	1200 TL
+===
+Name:	Y-Cube II
+Type:	GameConsole
+CPU:	2.4 GHz
+RAM:	16 GB
+hasBT:	True
+hasWifi:	True
+hasUsb:	True
+Mem:	512	GB
+opticDev:	Bluray
+Price:	1900 TL
+===
+Name:	Admiral 64
+Type:	GameConsole
+CPU:	0.001 GHz
+RAM:	1 GB
+hasBT:	False
+hasWifi:	False
+hasUsb:	False
+Mem:	1 GB
+opticDev:	CD
+Price:	30 TL
+===
+Name:	GamerBase RT4
+Type:	GameConsole
+CPU:	2.2 GHz
+RAM:	8 GB
+hasBT:	True
+hasWifi:	True
+hasUsb:	False
+Mem:	128	GB
+opticDev:	DVD
+Price:	600 TL
+===
+Name:	ProConsole
+Type:	GameConsole
+CPU:	3.2 GHz
+RAM:	16 GB
+hasBT:	True
+hasWifi:	True
+hasUsb:	True
+Mem:	512	GB
+opticDev:	Bluray
+Price:	2200 TL
+==========================================================
